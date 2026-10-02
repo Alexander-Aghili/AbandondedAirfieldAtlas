@@ -2,6 +2,8 @@
 
 An interactive map of [Paul Freeman’s Abandoned & Little-Known Airfields](https://airfields-freeman.com/) catalog. Search airfields, filter locations, switch between street and satellite imagery, and open original source entries.
 
+Website (coming soon): [alexanderaghili.com/abandoded-airfield-atlas](https://alexanderaghili.com/abandoded-airfield-atlas).
+
 ## Run
 
 ```sh
