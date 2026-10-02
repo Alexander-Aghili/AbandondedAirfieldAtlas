@@ -1,0 +1,2 @@
+import { AirfieldApplication } from "./js/application.js";
+new AirfieldApplication().init();
